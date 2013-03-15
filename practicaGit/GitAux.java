@@ -6,7 +6,8 @@ package prgitejemplo;
 
 /**
  *
- * @author bertoa
+ * @author jose Vacas
+ * Modificacion de prueba
  */
 public class GitAux {
     
